@@ -76,7 +76,7 @@ Lo curioso entre las bobinas y los capacitores es que son polos opuestos totalme
    </div>
    </section>
 
-**Resistores** de 1kΩ, 2.2kΩ. Los utilizaremos para crear el circuito que vamos a medir
+**Resistores** Los utilizaremos para crear el circuito que vamos a medir
 </section>
       <div class="container mt-5 mb-5">
         <img src="img/7.PNG"
@@ -286,7 +286,7 @@ Un osciloscopio agrega una gran cantidad de información a las lecturas numéric
       <div class="container mt-5 mb-5">
         <img src="img/d2.PNG"
           alt="LISTA DE COMPONENTES"
-          height="400"
+          height="250"
           style ="float-left ml-4"
         />           
    </div>
