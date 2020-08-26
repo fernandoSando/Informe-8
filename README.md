@@ -171,12 +171,16 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
 1.- Justifique los errores cometidos en las mediciones.
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+      En conrriente continua podemos ver que la bobina se convierte en un simple cable, es decir, un cortocircuito; en cambio, el capacitor se convierte en un circuito abierto.
 
 3.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
-
+     Aqui su funcion cambia bastante con respecto a la corriente continua, la bobina genera un campo electromagnetico y empieza a comportarse como una resistencia entre más Hz haya más ohmios tendra esa reactancia. Por otro lado, un capacitor en corriente continua dependiendo de los hz se convierte en lo contrario a la bobina, este si tiene una frecuencia muy alta tiene a convertirse en un  cortocircuito y si tiene una frecuencia baja sus ohmios son más.
+      
 4.- ¿Qué cree usted que ocurriría con el voltaje 𝑉𝑜 y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+      El voltaje Vo si va cambiar si se ponen valores diferente en las reactancias, aumentado o disminuyendo su valor en ohmios y la intenciadad del circuito siempre va a ser la misma.
 
 5.- ¿Qué son los valores eficaces de voltaje y corriente?
+      Son los valores que mejor se pueden adpatar para poder verlo como si trabajara en conrriente continua, es el valor minimo para que pueda trabajar correctamente el circuito.
 
 
 
