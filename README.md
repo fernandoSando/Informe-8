@@ -13,9 +13,14 @@ Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley 
 
 ## MARCO TEÓRICO
 
-**_Gustav Robert Kirchhoff (1824 - 1887)_**
+## Capacitores y Bobinas.
 
-Como todo lo que existe tiene una inicio, en este caso Robert es el padre de lo que hoy conocemos como las Leyes que llevan su apellido, sin el muchas de los casos que se realizan en los circuitos eléctricos no podrían ser posibles obtenerlos matemáticamente, su breve historia es: “Físico de origen alemán que realizó numerosas aportaciones a la ciencia, destacando las que hizo en espectroscopía, en la óptica, en los circuitos eléctricos y en la emisión de cuerpo negro, entre otras. Llegó a ser muy conocido por sus leyes en los circuitos eléctricos, ampliamente utilizadas en la  ingeniería  eléctrica las cuales se basan en dos principios fundamentales de la Física.” (Cedeño, Gil, & Pérez, 2016)
+Estos 2 elementos son capaces de almacenar una parte de la energía, además de que hay 2 formas de ver estos elementos en un circuito, de forma ideal y de forma real.
+
+**Capacitores (Condensador)**
+
+Es un elemento pasivo de un circuito, que tiene mayor utilidad dentro de un circuito AC ya que si se toma dentro de uno DC se convertirá en un circuito abierto, su medida son los faradios pero se puede transformar en reactancia para agilitar el cálculo con la fórmula: X_c=-1/jwF donde j es muestra de número complejo, w en rad/seg, F en faradios y se mide en ohmios , la característica del capacitor es que este se vuelve dependiente de la frecuencia del generador, entre mas Hz posea esta fuente el capacitor empezara ca comportarse como un cortocircuito, lo contrario a  cuando está en corriente DC. Mientras esta en el dominio del tiempo, su forma de calcular su intensidad es: i=F ∂v/∂t
+
 <section>
       <div class="container mt-5 mb-5">
         <img src="img/Gustav_Robert_Kirchhoff.jpg"
@@ -25,14 +30,15 @@ Como todo lo que existe tiene una inicio, en este caso Robert es el padre de lo 
         />           
    </div>
    </section>
-   Nodos: Punto en el que se conectan dos o más elementos de un circuito.
-Lazos: Camino que da la corriente.
+   
 
-Ramas: La unión de 2 nodos.
-
-**Primera Ley (Ley de Corrientes de Kirchhoff)**
+**Bobinas (Inductor)**
 
 “La suma de las corrientes que entran a un nodo (corriente total de entrada) es igual a la suma de las corrientes que salen de dicho nodo (corriente total de salida).” (Ricárdez, Bastién Montoya, Hernández, & H. S., 2017). Explica que la suma de todas las intensidades en un nodo especifico es igual a 0
+
+Lo curioso entre las bobinas y los capacitores es que son polos opuestos totalmente lo contrario uno del otro, ergo, la bobina en corriente DC solo es un cortocircuito a diferencia que en AC donde con esta característica genera un campo electromagnético y empieza a generar una resistencia la corriente, su medida son los henrios, al igual que los capacitores se puede transformar a reactancia para mejor calculo con la fórmula :X_l=jwL donde j es muestra de numero complejo, w la frecuencia en rads/seg L en henrios, medido en ohmios. Además, si se mantiene en el dominio del tiempo, se puede calcular su voltaje de la siguiente forma: v=L ∂i/∂t
+
+
 <section>
       <div class="container mt-5 mb-5">
         <img src="img/2.PNG"
@@ -44,21 +50,7 @@ Ramas: La unión de 2 nodos.
    </section>
 
 
-𝐼𝑡 = 𝐼1 + 𝐼2 + 𝐼3 + ⋯  𝐼𝑛
 
-**Segunda Ley (Ley de voltajes)**
- “En un circuito, la suma de todas las caídas de voltaje localizadas en una trayectoria cerrada única es igual al voltaje de fuente total encontrado en dicha espira.” (Ricárdez, Bastién Montoya, Hernández, & H. S., 2017). Esta ley está enfocada, a diferencia de la anterior, en los voltajes, aunque, lleva una premisa parecida; en los lazos la sumatoria de todos los voltajes va a ser igual a 0. 
- <section>
-      <div class="container mt-5 mb-5">
-        <img src="img/3.PNG"
-          alt="Segunda Ley (Ley de voltajes)"
-          height="300"
-          style ="float-left ml-4"
-        />           
-   </div>
-   </section>
-   
-𝑉𝑡 = 𝑉1 +𝑉2 + 𝑉3 + ⋯  𝑉𝑛
 
 ## **DESCRIPCIÓN DE LOS EQUIPOS Y MATERIALES**
 
@@ -185,6 +177,8 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
 
 
 ## **DIAGRAMAS**
+
+
 </section>
       <div class="container mt-5 mb-5">
         <img src="img/lab81.jpg"
@@ -278,15 +272,8 @@ Se establecen en función del proyecto y constituyen la base para un funcionamie
 
 # **BIBLIOGRÁFICA**
 
-Cedeño, J. C., Gil, J. M., & Pérez, F. M. (8 de 08 de 2016). Leyes de Kirchhoff. _Leyes de Kirchhoff_. Mexico.
-
-_Imagen_. (s.f.). Recuperado el 2 de 6 de 2020, de Wikipedia, la enciclopedia libre: http://commons.wikimedia.org/wiki/File:Gustav_Robert_Kirchhoff.jpg
-
-_Imagen_. (s.f.). Recuperado el 2 de 6 de 2020, de Wikipedia, la enciclopedia libre: http://commons.wikimedia.org/wiki/File:KCL_-_Kirchhoff's_circuit_laws.svg
-
-_Imagen_. (s.f.). Recuperado el 2 de 6 de 2020, de Wikipedia, la enciclopedia libre: http://commons.wikimedia.org/wiki/File:Kirshhoff-example.svg
-
-Ricárdez, A., Bastién Montoya, M., Hernández, B., & H. S., R. S. (2017). Estrategias para Resolver Problemas de Introducción a la Electrostática y Magnetostática. Ciudad de Mexico.
+William H. Hayt, J., Kemmerly, J. E., & Durbin, S. M. (2012). Análisis de circuitos en ingenieria. Buffalo: Mc Graw Hill.
+Vásquez, J. R. G. (s. f.). TEOREMAS FUNDAMENTALES DE CIRCUITOS ELÉCTRICOS. 251.
 
 
 
