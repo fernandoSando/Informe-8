@@ -183,7 +183,7 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
 ## **DIAGRAMAS**
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/10.PNG"
+        <img src="img/lab81.jpg"
           alt="Protoboard con multiples resistencias"
           height="203"
           style ="float-left ml-4"
@@ -207,7 +207,19 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
           style ="float-left ml-4"
         />           
    </div>
-   </section>                                  
+   </section>
+                                  
+ </div>
+   </section>
+   </section>
+      <div class="container mt-5 mb-5">
+        <img src="img/12.PNG"
+          alt="Protoboard con Amperimetros"
+          height="226"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>                                                               
                                   
    
 ## **LISTA DE COMPONENTES**
