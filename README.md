@@ -23,8 +23,8 @@ Es un elemento pasivo de un circuito, que tiene mayor utilidad dentro de un circ
 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/Gustav_Robert_Kirchhoff.jpg"
-          alt="Gustav Robert Kirchhoff (1824 - 1887)"
+        <img src="img/ca.PNG"
+          alt="Capacitores"
           height="300"
           style ="float-left ml-4"
         />           
@@ -41,8 +41,8 @@ Lo curioso entre las bobinas y los capacitores es que son polos opuestos totalme
 
 <section>
       <div class="container mt-5 mb-5">
-        <img src="img/2.PNG"
-          alt="Primera Ley (Ley de Corrientes de Kirchhoff)"
+        <img src="img/bo.PNG"
+          alt="Bobinas"
           height="300"
           style ="float-left ml-4"
         />           
@@ -123,6 +123,17 @@ Arme el circuito que se muestra en la figura 1.1.
         />           
    </div>
    </section>
+   
+   
+   </section>
+      <div class="container mt-5 mb-5">
+        <img src="img/9.PNG"
+          alt="Digrama del circuito"
+          height="200"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
 
 
 Construya en el protoboard el circuito mostrado en la Figura 1.
@@ -173,6 +184,10 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
 9.5 Preguntas
 
 1.- Justifique los errores cometidos en las mediciones.
+
+La diferencia es porque Un multímetro digital es una herramienta que se utiliza para realizar mediciones precisas de señales discretas, lo que permite lecturas de hasta ocho dígitos de resolución en la tensión, en la corriente o en la frecuencia de una señal.
+
+Un osciloscopio agrega una gran cantidad de información a las lecturas numéricas de un multímetro digital. Mientras que muestra los valores numéricos de una onda instantáneamente, también revela la forma de la onda, incluidas su amplitud (tensión) y frecuencia.
 
 2.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
       En conrriente continua podemos ver que la bobina se convierte en un simple cable, es decir, un cortocircuito; en cambio, el capacitor se convierte en un circuito abierto.
@@ -284,11 +299,13 @@ En conclusion, se lograron los objetivos de la practica, los cuales eran, realiz
 
 Con esta práctica se pudo adquirir los conocimientos teóricos de lo que son las ondas sinusoidal, de acuerdo al circuito montado.
 
+Se pudo analizar la diferencia que existe entre un osciloscopio y un multímetro digital.
+
 ## **RECOMENDACIONES**
 
 Se establecen en función del proyecto y constituyen la base para un funcionamiento adecuado.
 
-
+Conectar bien los aparatos de medición puede tener riesgo de electrocutarse.
 
 ## **CRONOGRAMA**
 
@@ -314,4 +331,4 @@ Vásquez, J. R. G. (s. f.). TEOREMAS FUNDAMENTALES DE CIRCUITOS ELÉCTRICOS. 251
 
 ## **ANEXOS**
 
-https://github.com/fernandoSando/INFORME-1/tree/master/Anexos
+
