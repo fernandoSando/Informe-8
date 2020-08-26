@@ -185,7 +185,7 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
       <div class="container mt-5 mb-5">
         <img src="img/lab81.jpg"
           alt="Protoboard con multiples resistencias"
-          height="600"
+          height="800"
           style ="float-left ml-4"
         />           
    </div>
@@ -197,7 +197,7 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
       <div class="container mt-5 mb-5">
         <img src="img/lab82.jpg"
           alt="Protoboard con multiples resistencias"
-          height="800"
+          height="900"
           style ="float-left ml-4"
         />           
    </div>
@@ -207,7 +207,7 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
       <div class="container mt-5 mb-5">
         <img src="img/lab84.jpg"
           alt="Protoboard con multiples resistencias"
-          height="600"
+          height="800"
           style ="float-left ml-4"
         />           
    </div>
@@ -218,7 +218,7 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
       <div class="container mt-5 mb-5">
         <img src="img/lab83.jpg"
           alt="Protoboard con Amperimetros"
-          height="800"
+          height="900"
           style ="float-left ml-4"
         />           
    </div>
