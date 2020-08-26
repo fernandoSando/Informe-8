@@ -185,25 +185,25 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
       <div class="container mt-5 mb-5">
         <img src="img/lab81.jpg"
           alt="Protoboard con multiples resistencias"
-          height="203"
+          height="300"
           style ="float-left ml-4"
         />           
    </div>
    </section>
    </section>
       <div class="container mt-5 mb-5">
-        <img src="img/11.PNG"
+        <img src="img/lab82.jpg "
           alt="Protoboard con Voltimetros
-          height="197"
+          height="300"
           style ="float-left ml-4"
         />           
    </div>
    </section>
    </section>
       <div class="container mt-5 mb-5">
-        <img src="img/12.PNG"
+        <img src="img/lab83.jpg "
           alt="Protoboard con Amperimetros"
-          height="226"
+          height="300"
           style ="float-left ml-4"
         />           
    </div>
@@ -213,9 +213,9 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
    </section>
    </section>
       <div class="container mt-5 mb-5">
-        <img src="img/12.PNG"
+        <img src="img/lab84.jpg"
           alt="Protoboard con Amperimetros"
-          height="226"
+          height="300"
           style ="float-left ml-4"
         />           
    </div>
