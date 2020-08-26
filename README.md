@@ -190,6 +190,7 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
         />           
    </div>
    </section>
+   
    </section>
       <div class="container mt-5 mb-5">
         <img src="img/lab82.jpg "
@@ -199,9 +200,11 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
         />           
    </div>
    </section>
+                                  
+                    
    </section>
       <div class="container mt-5 mb-5">
-        <img src="img/lab83.jpg "
+        <img src=" "
           alt="Protoboard con Amperimetros"
           height="300"
           style ="float-left ml-4"
@@ -209,8 +212,7 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
    </div>
    </section>
                                   
- </div>
-   </section>
+ 
    </section>
       <div class="container mt-5 mb-5">
         <img src="img/lab84.jpg"
