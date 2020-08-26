@@ -54,7 +54,7 @@ Lo curioso entre las bobinas y los capacitores es que son polos opuestos totalme
 
 ## **DESCRIPCIÓN DE LOS EQUIPOS Y MATERIALES**
 
-**Fuente de voltaje C.D.** Es de donde conseguir electricidad para el circuito
+**Generador de onda** 
 <section>
       <div class="container mt-5 mb-5">
         <img src="img/4.PNG"
@@ -76,7 +76,7 @@ Lo curioso entre las bobinas y los capacitores es que son polos opuestos totalme
    </div>
    </section>
 
-**Resistores** de 1kΩ, 2.2kΩ, 1.8kΩ y 3.9kΩ. Los utilizaremos para crear el circuito que vamos a medir
+**Resistores** de 1kΩ, 2.2kΩ. Los utilizaremos para crear el circuito que vamos a medir
 </section>
       <div class="container mt-5 mb-5">
         <img src="img/7.PNG"
@@ -98,6 +98,18 @@ Lo curioso entre las bobinas y los capacitores es que son polos opuestos totalme
    </div>
    </section>
 
+
+**Osiloscopio.** 
+</section>
+      <div class="container mt-5 mb-5">
+        <img src="img/0.0.PNG"
+          alt="Protoboard"
+          height="100"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+   
 ## **PROCEDIMIENTO**
 
 Arme el circuito que se muestra en la figura 1.1.
