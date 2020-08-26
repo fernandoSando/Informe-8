@@ -116,7 +116,7 @@ Arme el circuito que se muestra en la figura 1.1.
 
 </section>
       <div class="container mt-5 mb-5">
-        <img src="img/9.PNG"
+        <img src="img/c1.PNG"
           alt="Digrama del circuito"
           height="200"
           style ="float-left ml-4"
@@ -127,7 +127,7 @@ Arme el circuito que se muestra en la figura 1.1.
    
    </section>
       <div class="container mt-5 mb-5">
-        <img src="img/9.PNG"
+        <img src="img/c2.PNG"
           alt="Digrama del circuito"
           height="200"
           style ="float-left ml-4"
