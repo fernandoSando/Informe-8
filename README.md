@@ -193,6 +193,27 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
 
 </section>
       <div class="container mt-5 mb-5">
+        <img src="img/d.PNG"
+          alt="Protoboard con multiples resistencias"
+          height="300"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+   
+   
+   </section>
+      <div class="container mt-5 mb-5">
+        <img src="img/d1.PNG"
+          alt="Protoboard con multiples resistencias"
+          height="300"
+          style ="float-left ml-4"
+        />           
+   </div>
+   </section>
+
+</section>
+      <div class="container mt-5 mb-5">
         <img src="img/lab81.jpg"
           alt="Protoboard con multiples resistencias"
           height="800"
@@ -248,7 +269,7 @@ calculadas en el trabajo preparatorio. Compare y comente los resultados obtenido
 
  </section>
       <div class="container mt-5 mb-5">
-        <img src="img/1.PNG"
+        <img src="img/d2.PNG"
           alt="LISTA DE COMPONENTES"
           height="400"
           style ="float-left ml-4"
