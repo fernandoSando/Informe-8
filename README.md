@@ -151,8 +151,8 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resul
 ***Tabla 1.1. Resultados obtenidos de voltaje y corriente, del circuito 1.***
 
 
-| ||Multímetro|Multímetro|||
-|---------|---------|---------|---------|-----|-----|--|
+| | |Multímetro|Multímetro| | |
+|---------|---------|---------|---------|-----|-----|
 | **Frecuencia[Hz]**|**Osciloscopio**|**Voltaje**|**Intensidad**|**X**|**Ceq**|
 |**0[Hz]**   |0[V]   |0[V]       |0[A]      |0[Ω]     |20µF|
 |**10[Hz]**  |9.84[V]|7.012[V]   |8.926[mA] |701.2[Ω] |
@@ -165,8 +165,8 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 𝐻𝑧. Anote los resul
 ***Tabla 1.2. Resultados obtenidos de voltaje y corriente, del circuito 2.***
 
 
-| ||Multímetro|Multímetro|||
-|---------|---------|---------|---------|-----|-----|--|
+| | |Multímetro|Multímetro| | |
+|---------|---------|---------|---------|-----|-----|
 | **Frecuencia[Hz]**|**Osciloscopio**|**Voltaje**|**Intensidad**|**X**|**Leq**|
 |**0[Hz]**   |0[V]   |0[V]       |0[A]      |0[Ω]      |50mH|
 |**10[Hz]**  |9.84[V]|7.012[V]   |8.926[mA] |3.18[mΩ]  |
